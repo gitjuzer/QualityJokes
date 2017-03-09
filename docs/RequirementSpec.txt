@@ -1,0 +1,8 @@
+1. System main goal
+
+2. Platform (web, android)
+
+3. Fetaures
+
+4. Design
+
