@@ -1,0 +1,35 @@
+1. System main goals
+
+     - The user should be able to see in the home page all the new added jokes.
+     - The user shoudl be able to search for jokes by category/topic/key words.
+
+2. Platform (web, android)
+
+     - The user should be able to find a link in the web site to download the Andoid Application.
+     - Both platforms should have a user-friendly interface so it would be easy for users with different ages and from different countires to navigate and manipulate.
+     - The site's menu should contain 5 pages : 
+           Home page where you find the new added jokes and where you can rate them.
+           Search page where you can look for jokes by key words.
+           A contact us page where the user can complain/ask questions ect.. and submit his message and his e-mail.
+           Register and Login pages
+
+     
+
+
+3. Features
+
+    - Both platforms should have the option of changing the language (only English/Hungarian/Deutsh) so it would be easy for everyone to navigate.
+    - The user should be able to sign in for an account to be able to post jokes and be considered as a member.
+    - The jokes are only posted when they get a good voting from the other members of the site(yes or no voting).
+    - The members should vote for other member's jokes and rate other user's jokes.
+    - The user should be able to rate the jokes posted in the site (1 star = I hated it; 2 stars = I didn't like it; 3 stars = It was OK; 4 stars = I liked it; 5 stars = I loved it)
+    - Everyweek there would be a winner joke for the joke who has the best rating over the week and it would be annouced on the site's home page.
+
+4. Design
+
+     - Both platforms should have a colorful bright yet modern style to match the site's main function which is posting quality jokes.
+     - The site's colors should match with the logo's
+     - The menu containing all the links to other pages should be on the top of the page next to the site's logo where it's clearly visible to everyone.
+     - The bottom of the page will contain links to information regarding copyrights and privacy statement and about the site.
+     - The catgories/topics of the jokes can be found on the right side along side the page to choose from.
+     The winner joke should appear as a banner in the Home page.
