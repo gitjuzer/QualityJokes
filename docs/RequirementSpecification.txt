@@ -13,8 +13,11 @@
            A contact us page where the user can complain/ask questions ect.. and submit his message and his e-mail.
            Register and Login pages
 
-     
-
+     -The android application will contain :
+	   Homepage where you can find some of the best rated jokes.
+	   You can add your own joke to the database.
+	   you can look for jokes by category.
+	
 
 3. Features
 
