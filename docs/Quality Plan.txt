@@ -1,0 +1,11 @@
+
+1- Quality goals:
+
+      -Provide the users of the website with daily jokes.
+      -Allow the users of the website to search for jokes by the topic/categorie they want.
+      -Allow the users of the website to sign for an account and post their own jokes.
+      -Allow the users of the website to rate the jokes posted(1 star = I hated it; 2 stars = I didn't like it; 3 stars = It was OK; 4 stars = I liked it; 5 stars = I loved it).
+
+2- Tools:
+      -GitHub
+      
